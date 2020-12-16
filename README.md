@@ -1,2 +1,5 @@
 # test-fleet
-Movie-Api
+Demarrer le projet 
+cd test-fleet
+npm install
+npm start
